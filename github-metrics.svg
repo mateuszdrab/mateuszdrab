@@ -506,7 +506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RichiH/modbus_exporter</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exporter which retrieves stats from a modbus system and exports them via HTTP for Prometheus consumption.</div>
@@ -559,7 +559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/whisper.cpp</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Port of OpenAI's Whisper model in C/C++</div>
@@ -612,7 +612,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neowisard/ha_whisper.cpp_stt</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home Assistant Whisper.cpp API SST integration</div>
@@ -659,7 +659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>issalig/toshiba_air_cond</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AB protocol decoder for toshiba air conditioners</div>
@@ -715,13 +715,8 @@
                             <div class="entry">
                                 <span class="value">1</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                13
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -782,6 +777,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 26
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                27
                             </div>
                         </div>
                     </section>
@@ -791,13 +791,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                13
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 14
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -858,6 +853,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 26
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                27
                             </div>
                         </div>
                     </section>
@@ -937,7 +937,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2024, 01:47:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2024, 01:47:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
