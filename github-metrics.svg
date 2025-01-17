@@ -38,9 +38,9 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -450,7 +450,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 163kb of code in 145 edited files across 75 commits over last 13 days</small>
+                <small>estimation from 46.1kb of code in 51 edited files across 41 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -468,7 +468,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>37.4 kB</div>
+                                <div>9.68 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -512,7 +512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fmadio/pcap2json</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High Speed PCAP to JSON conversion utility</div>
@@ -565,7 +565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blakeblackshear/frigate-hass-integration</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Frigate integration for Home Assistant</div>
@@ -618,7 +618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nginx/nginx-prometheus-exporter</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NGINX Prometheus Exporter for NGINX and NGINX Plus</div>
@@ -671,7 +671,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zxdavb/ramses_cc</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HA integration for CH/DHW and HVAC systems that use the RAMSES II RF protocol</div>
@@ -733,13 +733,8 @@
                             <div class="entry">
                                 <span class="value">1</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                3
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 4
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -800,6 +795,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -809,13 +809,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                3
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 4
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -876,6 +871,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -962,7 +962,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2025, 00:47:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2025, 00:47:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
